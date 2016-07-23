@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-03-07 14:16:31 -0500
+title: Welcome to Jekyll!
+date: '2016-03-07 14:16:31 -0500'
 categories: jekyll update
+comments:
+  - author:
+      type: full
+      displayName: xlhdh
+      url: 'https://github.com/xlhdh'
+      picture: 'https://avatars.githubusercontent.com/u/4240400?v=3&s=73'
+    content: 'test test 123 '
+    date: 2016-07-23T16:39:10.895Z
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
