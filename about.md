@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: About｜简介
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+姓胡，据祖父说堂号是务本堂，郡望就不知道了。田月阁是胡字拆字而来，是我和祖父共用的号。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+今世是个喜欢机器翻译的程序员。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+前生1是个卖飞机票的。
+
+前生2是个做体育直播的，特长是绕正反圈收线缆，质量有保证绝无打结。
+
+前生3是个体育记者，看到不按新华社标准写的译名会砸电脑。
+
+前生4是个体操迷，这个现在也是。
+
+前生5是个韩剧粉，从初二开始粉某韩国人都认识但叫不出名字的大妈至今。
+
+考据成瘾。
