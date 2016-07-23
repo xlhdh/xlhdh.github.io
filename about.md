@@ -2,6 +2,15 @@
 layout: page
 title: About｜简介
 permalink: /about/
+comments:
+  - author:
+      type: full
+      displayName: xlhdh
+      url: 'https://github.com/xlhdh'
+      picture: 'https://avatars.githubusercontent.com/u/4240400?v=3&s=73'
+    content: 'test test 123! '
+    date: 2016-07-23T19:03:44.083Z
+
 ---
 
 姓胡，据祖父说堂号是务本堂，郡望就不知道了。田月阁是胡字拆字而来，是我和祖父共用的号。
