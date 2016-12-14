@@ -1,0 +1,9 @@
+echo ffmpeg -i $xComp\_1_300.flv -i $xComp\_1_56.flv -vcodec copy -acodec copy $xComp\_1.flv
+echo ffmpeg -i $xComp\_2_300.flv -i $xComp\_2_56.flv -vcodec copy -acodec copy $xComp\_2.flv
+echo ffmpeg -i $xComp\_3_300.flv -i $xComp\_3_56.flv -vcodec copy -acodec copy $xComp\_3.flv
+echo ffmpeg -i $xComp\_4_300.flv -i $xComp\_4_56.flv -vcodec copy -acodec copy $xComp\_4.flv
+echo ffmpeg -i $xComp\_5_300.flv -i $xComp\_5_56.flv -vcodec copy -acodec copy $xComp\_5.flv
+echo ffmpeg -i $xComp\_6_300.flv -i $xComp\_6_56.flv -vcodec copy -acodec copy $xComp\_6.flv
+echo ffmpeg -i $xComp\_7_300.flv -i $xComp\_7_56.flv -vcodec copy -acodec copy $xComp\_7.flv
+echo ffmpeg -i $xComp\_8_300.flv -i $xComp\_8_56.flv -vcodec copy -acodec copy $xComp\_8.flv
+echo ffmpeg -i $xComp\_9_300.flv -i $xComp\_9_56.flv -vcodec copy -acodec copy $xComp\_9.flv

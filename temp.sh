@@ -1,0 +1,9 @@
+ffmpeg -i MPT_1_300.flv -i MPT_1_56.flv -vcodec copy -acodec copy MPT_1.flv
+ffmpeg -i MPT_2_300.flv -i MPT_2_56.flv -vcodec copy -acodec copy MPT_2.flv
+ffmpeg -i MPT_3_300.flv -i MPT_3_56.flv -vcodec copy -acodec copy MPT_3.flv
+ffmpeg -i MPT_4_300.flv -i MPT_4_56.flv -vcodec copy -acodec copy MPT_4.flv
+ffmpeg -i MPT_5_300.flv -i MPT_5_56.flv -vcodec copy -acodec copy MPT_5.flv
+ffmpeg -i MPT_6_300.flv -i MPT_6_56.flv -vcodec copy -acodec copy MPT_6.flv
+ffmpeg -i MPT_7_300.flv -i MPT_7_56.flv -vcodec copy -acodec copy MPT_7.flv
+ffmpeg -i MPT_8_300.flv -i MPT_8_56.flv -vcodec copy -acodec copy MPT_8.flv
+ffmpeg -i MPT_9_300.flv -i MPT_9_56.flv -vcodec copy -acodec copy MPT_9.flv
