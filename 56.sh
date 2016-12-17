@@ -1,9 +1,0 @@
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 921 --quality 56 --nfrags 162 --outfile MPT_1_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1085 --quality 56 --nfrags 304 --outfile MPT_2_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1390 --quality 56 --nfrags 201 --outfile MPT_3_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1592 --quality 56 --nfrags 73 --outfile MPT_4_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1668 --quality 56 --nfrags 74 --outfile MPT_5_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1743 --quality 56 --nfrags 86 --outfile MPT_6_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1830 --quality 56 --nfrags 41 --outfile MPT_7_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 1872 --quality 56 --nfrags 232 --outfile MPT_8_56
-php ../AdobeHDS.php --fragments b1d79ad25bd171dcce5419bdc3882950_3653299fa5624afb7c342e61a230fbe0_Seg1-Frag --start 2106 --quality 56 --nfrags 286 --outfile MPT_9_56
