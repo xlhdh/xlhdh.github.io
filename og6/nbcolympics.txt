@@ -1,12 +1,12 @@
 D-2 
 
 http://stream.nbcolympics.com/mens-gymnastics-podium-training-subdivision-2
-
+http://olystreameast.nbcolympics.com/vod/d000bd55-d8fc-4702-b19d-3690f708eaf0/nbc-olympics0803085230.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 D-1 
 
 http://stream.nbcolympics.com/womens-gymnastics-podium-training-subdivision-4
-
+http://olystreameast.nbcolympics.com/vod/4f3d1bb7-263e-4e21-b895-6df3b510df4f/nbc-olympics0804120509.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 D0
 
@@ -16,57 +16,82 @@ OC
 D1 
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3
+http://olystreameast.nbcolympics.com/vod/6ff6cc8d-8d15-4f8b-af85-14fd0c716481/nbc-olympics0806132400.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2
+http://olystreameast.nbcolympics.com/vod/774f34f4-5de1-491b-8ec6-b9ac4e18090b/nbc-olympics0806094453.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1
+http://olystreamwest.nbcolympics.com/vod/0c838c56-83d6-4751-b1af-be9551265d6a/nbc-olympics0806050959.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-floor-exercise
+http://olystreameast.nbcolympics.com/vod/8bbcdb99-e627-4740-874b-a75527dfaa5f/nbc-olympics0806133612.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-pommel-horse
+http://olystreamwest.nbcolympics.com/vod/f595c0b9-f9a8-430b-8765-b5146cfea764/nbc-olympics0806131913.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-vault
+http://olystreameast.nbcolympics.com/vod/c1adedc1-6b20-4808-ba39-708998cd3ead/nbc-olympics0806132343.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-still-rings
+http://olystreameast.nbcolympics.com/vod/248f2844-33fd-4859-bde9-eef9907de4e3/nbc-olympics0806131419.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-horizontal-bar
+http://olystreameast.nbcolympics.com/vod/2999b2e3-5a2e-499b-b132-30713d6801e1/nbc-olympics0806131141.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-3-parallel-bars
+http://olystreameast.nbcolympics.com/vod/39931858-ab78-40c5-9ff9-5e7eb220a5c5/nbc-olympics0806131226.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-floor-exercise
+http://olystreameast.nbcolympics.com/vod/6ee2e0bd-f518-4e97-8116-8daaa7d95817/nbc-olympics0806090046.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-pommel-horse
+http://olystreameast.nbcolympics.com/vod/1228f1fe-e22f-414b-899b-a397c35cd2fc/nbc-olympics0806091933.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-vault
+http://olystreameast.nbcolympics.com/vod/c251ccef-a145-47e9-97e6-e766c026d180/nbc-olympics0806081946.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-still-rings
+http://olystreameast.nbcolympics.com/vod/c9eba719-e594-4159-b877-424ad9f94914/nbc-olympics0806085059.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-horizontal-bar
+http://olystreameast.nbcolympics.com/vod/ff760c62-3ef8-44a5-ae51-294302f0667a/nbc-olympics0806090114.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-2-parallel-bars
+http://olystreameast.nbcolympics.com/vod/441f4ef5-fb2e-4cd3-ab35-5625197b402a/nbc-olympics0806092253.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-floor-exercise
+http://olystreameast.nbcolympics.com/vod/d71ede01-afc0-4dd5-8b2b-bbea4ec8e804/nbc-olympics0806044239.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-pommel-horse
+http://olystreameast.nbcolympics.com/vod/43905787-b820-4e6e-8d61-64c9ff464d16/nbc-olympics0806025906.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-vault
+http://olystreameast.nbcolympics.com/vod/b1089171-1e51-4217-9a27-cc4ddf49a12a/nbc-olympics0806051811.ism/manifest(format=f4m-f4f,filtername=vodcut2).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-still-rings
+http://olystreameast.nbcolympics.com/vod/9b45f0bb-1bf2-4168-8222-332eab59ac8a/nbc-olympics0806050329.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-horizontal-bar
+http://olystreameast.nbcolympics.com/vod/d83585ae-89f1-4da4-a7ed-4a111396b49b/nbc-olympics0806025545.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-parallel-bars
+http://olystreameast.nbcolympics.com/vod/ac96445f-0846-4b4b-818b-be225f786e0f/nbc-olympics0806051822.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D2
 
 http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-5
+http://olystreameast.nbcolympics.com/vod/a7345c7f-558f-4528-8638-f34d9f1ad3c4/nbc-olympics0807155738.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-4
+http://olystreameast.nbcolympics.com/vod/423e6d5d-77a7-49ad-be0f-c7bfb3ca7e18/nbc-olympics0807111039.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-3
+http://olystreameast.nbcolympics.com/vod/692fac3e-eecb-4757-a44f-d09ce33f5a88/nbc-olympics0807093942.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-1-2
+http://olystreameast.nbcolympics.com/vod/3fc507d7-4949-4f12-835c-93797c806fa3/nbc-olympics0807041824.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-5-floor
 
@@ -105,120 +130,154 @@ http://stream.nbcolympics.com/womens-gymnastics-qualifications-subdivision-1-2-u
 D3
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final
+http://olystreamwest.nbcolympics.com/vod/72deaddb-84d3-4213-b0e5-f31eb6c641d2/nbc-olympics0808100116.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-floor
+http://olystreameast.nbcolympics.com/vod/6623b05c-28ef-4f53-9d76-b8773fb0e602/nbc-olympics0808104631.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-pommel-horse
+http://olystreameast.nbcolympics.com/vod/e4001a13-0269-4a1d-a853-6c8e89471e12/nbc-olympics0808100443.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-vault
+http://olystreameast.nbcolympics.com/vod/b40c6e0d-7f62-4745-805c-19bb388cbf09/nbc-olympics0808104814.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-still-rings
+http://olystreameast.nbcolympics.com/vod/51bc68c9-6318-4b9a-94c2-acefc4f7c434/nbc-olympics0808111748.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-horizontal-bar
+http://olystreameast.nbcolympics.com/vod/c0f04881-7993-456c-9343-5235ebb9fff6/nbc-olympics0808092521.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m?token=st=1482079016~exp=1482079136~acl=/vod/c0f04881-7993-456c-9343-5235ebb9fff6/nbc-olympics0808092521.ism/*~hmac=08782dabb28cb5b4104fc4c10d6f491b81572f7b1c70f34591903841b5531129
 
 http://stream.nbcolympics.com/mens-gymnastics-team-final-parallel-bars
+http://olystreameast.nbcolympics.com/vod/0bad1cb6-e2ae-4a4e-ae5a-9e485e0b28b4/nbc-olympics0808103306.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D4
 
 http://stream.nbcolympics.com/womens-gymnastics-team-final
+http://olystreameast.nbcolympics.com/vod/8f974e43-136f-4c62-9108-9c63a1229866/nbc-olympics0809095644.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-team-final-floor
+http://olystreameast.nbcolympics.com/vod/360a6ddf-e9d2-46ec-9b3b-9668852f053d/nbc-olympics0809100419.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-team-final-balance-beam
+http://olystreameast.nbcolympics.com/vod/2f1cf350-b2f2-4cdc-b068-1631d0bf9dc9/nbc-olympics0809103448.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-team-final-vault
-
+http://olystreameast.nbcolympics.com/vod/ab73be0e-7395-470c-a65b-f6ed6d40a85c/nbc-olympics0809101859.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 http://stream.nbcolympics.com/womens-gymnastics-team-final-uneven-bars
+http://olystreameast.nbcolympics.com/vod/846a2b06-a535-4b8d-bc1b-bb85970ee1e4/nbc-olympics0809105426.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 
 D5
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final
+http://olystreameast.nbcolympics.com/vod/1db5e883-3a61-4cd3-acf5-b27f507423d8/nbc-olympics0810100300.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-floor
+http://olystreameast.nbcolympics.com/vod/bed54e46-541b-483c-9d81-1c27d9c6c9f1/nbc-olympics0810103308.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-pommel-horse
+http://olystreameast.nbcolympics.com/vod/5328779e-9cac-4d29-97ae-09b94bc1406a/nbc-olympics0810103114.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-vault
+http://olystreamwest.nbcolympics.com/vod/eabe08a3-cb19-45c6-b931-454125044139/nbc-olympics0810103326.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-still-rings
+http://olystreamwest.nbcolympics.com/vod/ab8c5ec8-2525-4cd1-9e1b-a7713e28e8b1/nbc-olympics0810105519.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-horizontal-bar
+http://olystreameast.nbcolympics.com/vod/bce6621e-6209-4fce-872b-703f6cbe7e49/nbc-olympics0810105301.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/mens-gymnastics-all-around-final-parallel-bars
-
+http://olystreameast.nbcolympics.com/vod/223238b6-04a0-4ce3-a97f-c3afc1df7025/nbc-olympics0810112124.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D6
 
 http://stream.nbcolympics.com/womens-gymnastics-all-around-final
+http://olystreameast.nbcolympics.com/vod/e0da1d80-f9aa-4d95-a437-8546213c2c7b/nbc-olympics0811112626.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-all-around-final-floor-exercise
+http://olystreameast.nbcolympics.com/vod/24ba2d82-4503-45c9-83fc-b48f22ef1b8c/nbc-olympics0811105353.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-all-around-final-balance-beam
+http://olystreameast.nbcolympics.com/vod/77699463-e43d-4c4c-ab64-e66c66ee2fa2/nbc-olympics0811084752.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-all-around-final-vault
+http://olystreameast.nbcolympics.com/vod/e4ec7ce1-fcc3-4361-818f-5e8167f083a3/nbc-olympics0811102739.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/womens-gymnastics-all-around-final-uneven-bars
+http://olystreameast.nbcolympics.com/vod/e64214e7-8d93-4c91-8224-65febff858b1/nbc-olympics0811111420.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 
 D7
 
 http://stream.nbcolympics.com/womens-trampoline-individual-competition
-
+http://olystreameast.nbcolympics.com/vod/5b714363-ccda-49c9-bd4f-5269d6fd013c/nbc-olympics0812083618.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 D8
 
 http://stream.nbcolympics.com/mens-trampoline-individual-competition
+http://olystreameast.nbcolympics.com/vod/8a9d91b8-3c4c-4240-8f7d-c50227db7020/nbc-olympics0813082622.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D9
 
 http://stream.nbcolympics.com/gymnastics-event-finals-mens-floor-womens-vault-mens-pommel-horse-womens-uneven-bars
-
+http://olystreameast.nbcolympics.com/vod/41fd3f48-1ade-42bc-9ad3-2217caed3fca/nbc-olympics0814084204.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D10
 
 http://stream.nbcolympics.com/gymnastics-event-finals-mens-rings-womens-beam-mens-vault
-
+http://olystreameast.nbcolympics.com/vod/418bc6b3-da1d-4c11-bcca-e340e0b12e75/nbc-olympics0815084137.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D11
 
 http://stream.nbcolympics.com/gymnastics-event-finals-mens-parallal-bars-womens-floor-mens-high-bar
-
+http://olystreameast.nbcolympics.com/vod/bb942a7f-3ed6-4c50-b87b-6d8d4cf08158/nbc-olympics0816094011.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D12
 
-http://stream.nbcolympics.com/gymnastics-gala
+http://stream.nbcolympics.com/gymnastics-gala-i
+http://olystreameast.nbcolympics.com/vod/de64a523-2fb1-4003-9320-e3ee41cc13c8/nbc-olympics0817042427.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/gymnastics-gala-ii
+http://olystreamwest.nbcolympics.com/vod/e5950b13-9e50-4fca-a16e-39f2fa5e1fb3/nbc-olympics0817093617.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m?token=st=1482079494~exp=1482079614~acl=/vod/e5950b13-9e50-4fca-a16e-39f2fa5e1fb3/nbc-olympics0817093617.ism/*~hmac=2a7a8f6dae93dd439ead2112f9b72a60faf95c3733c0b1c633d81671fdd3e3f8
 
 
 D13
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-all-around-individual-qualifications-rotation-1-2
+http://olystreameast.nbcolympics.com/vod/bf4c7fb7-d779-4b7d-9d08-304755fddd60/nbc-olympics0819051620.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-all-around-individual-qualifications-rotation-3-4
+http://olystreameast.nbcolympics.com/vod/bded284c-a1db-4869-aa2c-f9fd90fa6833/nbc-olympics0819092305.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D14
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-group-qualifications-rotation-1
+http://olystreameast.nbcolympics.com/vod/c1e98edd-89ed-4ea4-8b24-f14b9fc4cc5e/nbc-olympics0820042557.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-group-qualifications-rotation-2
+http://olystreameast.nbcolympics.com/vod/b12aa74e-cc17-4019-86de-d4119cfba205/nbc-olympics0820072358.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-individual-final
+http://olystreameast.nbcolympics.com/vod/a624ca58-ce7a-45cb-8e73-e10498b61e70/nbc-olympics0820093127.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 D15 
 
 http://stream.nbcolympics.com/rhythmic-gymnastics-group-final
+http://olystreameast.nbcolympics.com/vod/78b9043a-5eb2-45ae-951c-8606971bcda2/nbc-olympics0821053518.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
 
 
 
+
+http://stream.nbcolympics.com/closing-ceremony
+http://olystreamwest.nbcolympics.com/vod/71b78e77-b4ae-48a7-bf15-2fadb7e91e03/nbc-olympics0821132835.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m
