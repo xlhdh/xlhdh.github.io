@@ -51,7 +51,7 @@ ffmpeg -i audo.mp3 -af "volumedetect" -f null /dev/null
 
 
 
-set xAuth=hdntl=exp=1481905883~acl=%2f*~hmac=809eb8c9920283127464951b1d59d8e9d39fe0454084c3b37a013c1942ad6cea
+set xAuth=hdntl=exp=1482164763~acl=%2f*~hmac=a18ff4e891d168ce00d6b9928b830622be56cf68253c20ad00b23cb4305c6790
 
 
 PHP\php.exe AdobeHDS.php --manifest %xF4M%?%xAuth% --auth %xAuth% --outfile UNK.300.flv --quality 300 --delete & PHP\php.exe AdobeHDS.php --manifest %xF4M%?%xAuth% --auth %xAuth% --outfile UNK.56.flv --quality 56 --delete & PHP\php.exe AdobeHDS.php --manifest %xF4M%?%xAuth% --auth %xAuth% --outfile UNK.7000.flv --quality 7000 --delete 
@@ -67,4 +67,6 @@ ffmpeg -i UNK.56.flv -i UNK.7000.flv -ss 00:00:00 -to 01:39:48 -c copy UNK.flv
 
 y
 
+
+curl 'http://olystreameast.nbcolympics.com/vod/ac96445f-0846-4b4b-818b-be225f786e0f/nbc-olympics0806051822.ism/manifest(format=f4m-f4f,filtername=vodcut).f4m?token=st=1482078360~exp=1482078480~acl=/vod/ac96445f-0846-4b4b-818b-be225f786e0f/nbc-olympics0806051822.ism/*~hmac=586b42e5c73bb58d894be178100f62f5c15fb80e49886190c4aa551c5bac1c4a' -H 'Cookie: timezone=est; geolocation=%7B%22continent%22%3A%22NA%22%2C%22country_code%22%3A%22US%22%2C%22region_code%22%3A%22PA%22%2C%22city%22%3A%22PITTSBURGH%22%2C%22dma%22%3A%22508%22%2C%22msa%22%3A%226280%22%2C%22pmsa%22%3A%22%22%2C%22areacode%22%3A%22412%22%2C%22lat%22%3A%2240.4409%22%2C%22long%22%3A%22-79.9963%22%2C%22county%22%3A%22ALLEGHENY%22%2C%22timezone%22%3A%22EST%22%2C%22zip%22%3A%2215201-15244%2B15250-15255%2B15257-15262%2B15264-15265%2B15267-15268%2B15270%2B15272%2B15274-15279%2B15281-15283%2B15286%2B15289-15290%2B15295%22%2C%22military%22%3A%22false%22%2C%22xffip%22%3A%22128.2.247.28%22%7D; local_station_auto=WPXI; AMCV_A8AB776A5245B4220A490D44%40AdobeOrg=793872103%7CMCMID%7C13147075426221070822252382870533945076%7CMCAID%7CNONE; s_vnum=1482123600909%26vn%3D1; s_vmonthnum=1483246800910%26vn%3D1; s_ppvl=%2Fmens-gymnastics-qualifications-subdivision-1-parallel-bars%2C21%2C21%2C930%2C1277%2C930%2C1920%2C1080%2C1%2CL; s_cc=true; s_nr=1482078358707; s_dslv=1482078358707; s_dslv_s=First%20Visit; s_invisit=true; s_monthinvisit=true; s_ppn=%2Fmens-gymnastics-qualifications-subdivision-1-parallel-bars; linktrk=%5B%5BB%5D%5D; s_ppv=%2Fmens-gymnastics-qualifications-subdivision-1-parallel-bars%2C100%2C100%2C18824%2C1086%2C930%2C1920%2C1080%2C1%2CL' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4,ko;q=0.2' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36' -H 'Accept: */*' -H 'Referer: http://stream.nbcolympics.com/mens-gymnastics-qualifications-subdivision-1-parallel-bars' -H 'X-Requested-With: ShockwaveFlash/23.0.0.162' -H 'Connection: keep-alive' --compressed
 
