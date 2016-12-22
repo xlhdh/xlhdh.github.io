@@ -16,3 +16,7 @@ github_username:  xlhdh
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-48926715-1
+
