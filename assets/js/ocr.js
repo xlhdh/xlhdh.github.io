@@ -10,7 +10,7 @@ function process() {
                     imageUri: document.getElementById("xurl").value
                 }
             },
-            imageContext = {
+            imageContext: {
                 languageHints: ["zh-handwrit"]
             }
         }]
